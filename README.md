@@ -1,1 +1,1 @@
-# Imperial-Introduction To Artificial Intelligence
+# Imperial Introduction To Artificial Intelligence
